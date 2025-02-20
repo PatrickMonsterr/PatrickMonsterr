@@ -1,22 +1,22 @@
-## Hi there 👋
+# 🎮 Hey there!👋
 
-<!--
-**PatrickMonsterr/PatrickMonsterr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Game Developer** who loves crafting immersive experiences in **Unity** and programming in **C#**. I enjoy working on game mechanics, 3D graphics, and performance optimization.
 
-Here are some ideas to get you started:
+🚀 **Specialties:**
+- 🎮 Game Development with **Unity**
+- 🖥️ Programming in **C#**
+- 🔥 Performance Optimization in Game Engines
+- 🎨 3D Modeling in Blender
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 🔥 Najczęściej używane języki
-![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickMonsterr&layout=compact&theme=radical)
+---
+
+## 🔥 Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
+
+---
+
+## 📫 Contact Me:
+- 💼 [LinkedIn](https://www.linkedin.com/in/patryk-budniok-b02292331/)
+- 📧 Email: **patrykbudniok@gmail.com**
 
 ![](https://komarev.com/ghpvc/?username=PatrickMonsterr&color=blue)
-
-

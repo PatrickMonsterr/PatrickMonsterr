@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 🔥 Najczęściej używane języki
-![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=TwojUsername&layout=compact&theme=radical)
+![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickMonsterr&layout=compact&theme=radical)

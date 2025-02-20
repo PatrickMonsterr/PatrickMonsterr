@@ -10,7 +10,6 @@ I'm a passionate **Game Developer** who loves crafting immersive experiences in 
 
 ---
 
-## 🔥 Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickMonsterr&layout=compact&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PatrickMonsterr&theme=dark)
 

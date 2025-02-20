@@ -16,7 +16,7 @@ I'm a passionate **Game Developer** who loves crafting immersive experiences in 
 ---
 
 ## 📫 Contact Me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/patryk-budniok-b02292331/)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/patryk-budniok-b02292331/)
 - 📧 Email: **patrykbudniok@gmail.com**
 
 ![](https://komarev.com/ghpvc/?username=PatrickMonsterr&color=blue)

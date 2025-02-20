@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 📊 Moje statystyki GitHub
+![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=PatrickMonsterr&show_icons=true&theme=radical)
+
 ### 🔥 Najczęściej używane języki
 ![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickMonsterr&layout=compact&theme=radical)
+

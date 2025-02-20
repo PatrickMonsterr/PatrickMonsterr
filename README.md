@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 ### 🔥 Najczęściej używane języki
 ![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickMonsterr&layout=compact&theme=radical)
 
+![](https://komarev.com/ghpvc/?username=PatrickMonsterr&color=blue)
+
+

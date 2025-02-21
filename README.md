@@ -5,8 +5,8 @@ I'm a passionate **Game Developer** who loves crafting immersive experiences in 
 🚀 **Specialties:**
 - 🎮 Game Development with **Unity**
 - 🖥️ Programming in **C#**
-- 🔥 Performance Optimization in Game Engines
-- 🎨 3D Modeling in Blender
+- 🎨 3D Modeling and texturing in Blender
+- 🔄 Blender to Unity Workflow
 
 ---
 

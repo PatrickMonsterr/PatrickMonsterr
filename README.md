@@ -1,14 +1,4 @@
-# 🎮 Hey there!👋
 
-I'm a passionate **Game Developer** who loves crafting immersive experiences in **Unity** and programming in **C#**. I enjoy working on game mechanics, 3D graphics, and performance optimization.
-
-🚀 **Specialties:**
-- 🎮 Game Development with **Unity**
-- 🖥️ Programming in **C#**
-- 🎨 3D Modeling and texturing in Blender
-- 🔄 Blender to Unity Workflow
-
----
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickMonsterr&layout=compact&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PatrickMonsterr&theme=dark)
